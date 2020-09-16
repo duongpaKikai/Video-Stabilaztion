@@ -1,5 +1,5 @@
 #run this comment
-'python run_seq2.py --cuda --n_iter 3'
+`python run_seq2.py --cuda --n_iter 3`
 
 #environment 
 `python==3.8.5`
